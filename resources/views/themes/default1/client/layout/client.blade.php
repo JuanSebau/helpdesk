@@ -313,22 +313,6 @@
                             </div><!-- #login-form -->
                         </div>
                     </nav>
-
-                    <div id="header-search" class="site-search clearfix" style="margin-right: 90%; width: 100%"><!-- #header-search -->
-                        {!!Form::open(['route' => 'client.search','class'=>'search-form clearfix'])!!}
-                        <div class="form-border" style="z-index: 0;width: 85%;">
-                            <div class="form-inline ">
-                                
-                            </div><!----><!----></div>
-                                <style>
-                                    .search-field {
-                                        border-radius: 10px; /* You can adjust the value to your desired radius */
-                                    }
-                                </style>
-                            </div>
-                        </div>
-                        {!! Form::close() !!}
-                    </div>
                 </div>
             </header>
             <!-- Left side column. contains the logo and sidebar -->
