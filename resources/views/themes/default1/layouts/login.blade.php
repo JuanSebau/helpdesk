@@ -23,7 +23,7 @@
       .site-hero {
           padding: 35px 0;
           padding-top: 1px !important;
-          background: rgb(0, 154, 186) !important;
+          background: #428041 !important;
       }
       .breadcrumb {
             width: 80%;
