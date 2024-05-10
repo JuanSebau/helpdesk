@@ -336,7 +336,7 @@
             <!-- Left side column. contains the logo and sidebar -->
             <aside class="main-sidebar elevation-4 sidebar-dark-orange">
 
-                <a href="http://www.faveohelpdesk.com" class="brand-link navbar-dark" style="text-align: center;">
+                <a href="https://www.cota-cundinamarca.gov.co" class="brand-link navbar-dark" style="text-align: center;">
                     <img src="{{ asset('lb-faveo/media/images/logo.png')}}" class="brand-image" alt="Company Log0">
                 </a>
 
