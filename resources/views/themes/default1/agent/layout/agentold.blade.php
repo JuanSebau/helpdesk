@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8" ng-app="myApp">
-        <title>HELP DESK</title>
+        <title>HELP DESK | ALCALDIA DE COTA</title>
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
         <meta name="_token" content="{!! csrf_token() !!}"/>
         <!-- faveo favicon -->
