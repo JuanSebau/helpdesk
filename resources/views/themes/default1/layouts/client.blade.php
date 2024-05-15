@@ -211,16 +211,6 @@ $footer4 = App\Model\helpdesk\Theme\Footer4::whereId('1')->first();
 					@endif
 					@if($footer4->title == null)
 					@else
-                    <div class="col-md-3">
-						<div class="widget-area">
-							<section id="section-newsletter" class="section">
-                            <h2 class="section-title h4 clearfix">{{$footer4->title}}</h2>
-                            <div class="textwidget">
-                                <p>{!!$footer4->footer!!}</p>
-                   			</div>
-                       		</section>
-                    	</div>
-                	</div>
                 	@endif
             	</div>
 			<div class="clearfix"></div>
